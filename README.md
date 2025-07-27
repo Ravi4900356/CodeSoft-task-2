@@ -1,1 +1,2 @@
-# CodeSoft-task-2
+# CodeSoft-task-2 JAVA
+Typing speed .java
